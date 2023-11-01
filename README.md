@@ -8,5 +8,5 @@ working.html uses Vue version 3.2.45 and you can successfully see the "Hello vue
 
 broken.html uses Vue version 3.2.46 and you get no message on the page. The console says:
 
-Uncaught ReferenceError: _toDisplayString is not defined
+    Uncaught ReferenceError: _toDisplayString is not defined
     
