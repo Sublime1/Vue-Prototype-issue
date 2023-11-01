@@ -1,4 +1,4 @@
-"# Vue-Prototype-issue" 
+# Vue-Prototype-issue
 
 Test case for an issue introduced in Vue version 3.2.46 which breaks compatibility with Prototype.js version 1.7.3
 
